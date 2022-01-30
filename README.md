@@ -16,3 +16,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thezedzed&repo=gnl)](https://github.com/thezedzed/gnl)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thezedzed&repo=libft)](https://github.com/thezedzed/libft)
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/minishell)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/philosopher)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/printf)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/container)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/minirt)](https://github.com/JaeSeoKim/badge42)
