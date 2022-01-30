@@ -17,8 +17,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thezedzed&repo=libft)](https://github.com/thezedzed/libft)
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/minishell)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/philosopher)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/printf)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/container)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/minirt)](https://github.com/JaeSeoKim/badge42)
+Cursus project:
+Pipex: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/pipex)](https://github.com/JaeSeoKim/badge42)
+Push_swap: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/push_swap)](https://github.com/JaeSeoKim/badge42)
+Minishell: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/minishell)](https://github.com/JaeSeoKim/badge42)
+Philosopher: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/Philosophers)](https://github.com/JaeSeoKim/badge42)
+Printf: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/ft_printf)](https://github.com/JaeSeoKim/badge42)
+Containers: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/ft_containers)](https://github.com/JaeSeoKim/badge42)
+MiniRT: [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/azeraoul/miniRT)](https://github.com/JaeSeoKim/badge42)
