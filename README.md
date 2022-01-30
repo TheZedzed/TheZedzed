@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=thezedzed&color=blue)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thezedzed&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/azeraoul?privacyName=true)](https://github.com/JaeSeoKim/badge42)
