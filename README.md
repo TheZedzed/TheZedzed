@@ -9,6 +9,3 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thezedzed&repo=printf)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thezedzed&repo=minishell_aio)]
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thezedzed&repo=container)]
