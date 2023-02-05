@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=thezedzed&color=blue) <br>
 
 ### Hi there 👋
+I'm Zed.
+
+    📫 How to reach me: zeraalex0@gmail.com
 
 ***Bio in progress..:right_anger_bubble:*** <br>
 
