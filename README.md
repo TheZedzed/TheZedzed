@@ -37,7 +37,7 @@ A Bash-compatible POSIX shell written in **C23**, developed with a real product 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheZedzed&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/TheZedzed)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheZedzed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/TheZedzed)
 
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=TheZedzed&theme=tokyonight&hide_border=true)](https://github.com/TheZedzed)
+[![GitHub streak](https://streak-stats.demolab.com?user=TheZedzed&theme=tokyonight&hide_border=true)](https://github.com/TheZedzed)
 
 </div>
 
@@ -47,7 +47,7 @@ A Bash-compatible POSIX shell written in **C23**, developed with a real product 
 
 [![Email](https://img.shields.io/badge/Email-zeraalex0%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeraalex0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-TheZedzed-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheZedzed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-thezedzed.github.io-bb9af7?style=for-the-badge&logo=githubpages&logoColor=white)](https://thezedzed.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thezedzed.github.io-bb9af7?style=for-the-badge&logo=github&logoColor=white)](https://thezedzed.github.io/portfolio)
 
 </div>
 
