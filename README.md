@@ -26,7 +26,7 @@ A Bash-compatible POSIX shell written in **C23**, developed with a real product 
 
 **Architecture** — Lexer → Parser (AST) → Expander → Executor.
 
-**Delivery snapshot** *(2026-04)* — 40 stories · 6 epics · 147 commits on `main` · 86% line coverage · 93% function coverage.
+**Delivery snapshot** *(2026-04)* — 34 epics · 6 epic groups · 40+ stories shipped · 147 commits on `main` · 86% line / 93% function coverage.
 
 **Links** — [Source](https://github.com/TheZedzed/42sh) · [Portfolio walkthrough](https://thezedzed.github.io/portfolio/42sh) · Live demo: *recording in progress*.
 
