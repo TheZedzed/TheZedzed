@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=C%2FC%2B%2B+Systems+Developer;Product+Owner;42+Student)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Systems+Developer;C+%C2%B7+C%2B%2B+%C2%B7+POSIX+internals;42+Student)
 
 </div>
 
@@ -8,9 +8,8 @@
 
 ## About
 
-Systems developer **and** product owner. I build in C and C++ — POSIX internals, profile-driven optimization with `perf` and `valgrind` — and I own delivery end-to-end: PRDs, epic breakdowns, ticket-referenced commits, CI-gated merges.
-Currently at [42](https://www.42.fr), where I run my flagship project **42sh** as architect, developer, and PO.
-Interests: OS internals, shell design, compiler pipelines, developer tooling.
+Systems developer at [42](https://www.42.fr). I build in **C and C++** — POSIX internals, networking, graphics, developer tooling — with profile-driven optimization (`perf`, `valgrind`) and a strong preference for correctness over cleverness.
+My flagship project is **42sh** (a Bash 5.3-compatible shell), where I also run the full product lifecycle as PO: PRDs, Jira epics, ticket-referenced commits, CI-gated merges.
 
 ## Tech stack
 
@@ -20,15 +19,17 @@ Interests: OS internals, shell design, compiler pipelines, developer tooling.
 
 </div>
 
-## Featured project — 42sh
+## Selected projects
 
-A Bash-compatible POSIX shell written in **C23**, developed with a real product lifecycle: Jira-tracked stories, ticket-referenced commits, CI-gated merges, and bash-as-oracle integration tests.
+| Project | Stack | What it is |
+|---|---|---|
+| **[42sh](https://github.com/TheZedzed/42sh)** *(flagship, private)* | C23, Readline, CGreen, pytest | Bash 5.3-compatible POSIX shell. Full SDLC with Jira, bash-as-oracle tests, 86%+ coverage. See the [portfolio walkthrough](https://thezedzed.github.io/portfolio/42sh). |
+| **[webserv](https://github.com/TheZedzed/webserv)** | C++98 | Non-blocking HTTP/1.1 server — multi-client `epoll`/`kqueue`, CGI, static + dynamic routes. |
+| **[miniRT](https://github.com/TheZedzed/miniRT)** | C, MiniLibX | Software ray tracer — spheres, planes, cylinders, Phong shading, multi-threaded rendering. |
+| **[container](https://github.com/TheZedzed/container)** | C++98 | Re-implementation of `libstdc++` containers (`vector`, `map`, `stack`, `set`) with SFINAE and RB-tree internals. |
+| **[ft_transcendance](https://github.com/TheZedzed/ft_transcendance)** | TypeScript, NestJS | Full-stack Pong platform — REST API, WebSocket match engine, OAuth2, Docker-composed services. |
 
-**Architecture** — Lexer → Parser (AST) → Expander → Executor.
-
-**Delivery snapshot** *(2026-04)* — 34 epics · 6 epic groups · 40+ stories shipped · 147 commits on `main` · 86% line / 93% function coverage.
-
-**Links** — [Source](https://github.com/TheZedzed/42sh) · [Portfolio walkthrough](https://thezedzed.github.io/portfolio/42sh) · Live demo: *recording in progress*.
+More on my [repositories page](https://github.com/TheZedzed?tab=repositories).
 
 ## GitHub stats
 
