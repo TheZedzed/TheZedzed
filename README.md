@@ -34,8 +34,10 @@ A Bash-compatible POSIX shell written in **C23**, developed with a real product 
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheZedzed&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/TheZedzed)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheZedzed&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/TheZedzed)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheZedzed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/TheZedzed)
+
+[![GitHub streak](https://streak-stats.demolab.com?user=TheZedzed&theme=tokyonight&hide_border=true)](https://github.com/TheZedzed)
 
 </div>
 
