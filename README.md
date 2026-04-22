@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Systems+Developer;C+%C2%B7+C%2B%2B+%C2%B7+POSIX+internals;42+Student)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=C%2FC%2B%2B+Systems+Developer;Product+Owner;42+Student)
 
 </div>
 
