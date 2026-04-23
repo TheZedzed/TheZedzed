@@ -23,7 +23,7 @@ My flagship project is **42sh** (a Bash 5.3-compatible shell), where I also run 
 
 | Project | Stack | What it is |
 |---|---|---|
-| **[42sh](https://github.com/TheZedzed/42sh)** *(flagship, private)* | C23, Readline, CGreen, pytest | Bash 5.3-compatible POSIX shell. Full SDLC with Jira, bash-as-oracle tests, 86%+ coverage. See the [portfolio walkthrough](https://thezedzed.github.io/portfolio/42sh). |
+| **42sh** *(flagship — private repo, case study below)* | C23, Readline, CGreen, pytest | Bash 5.3-compatible POSIX shell. Full SDLC with Jira, bash-as-oracle tests, 86%+ coverage. See the [portfolio case study](https://thezedzed.github.io/portfolio/#planning). |
 | **[webserv](https://github.com/TheZedzed/webserv)** | C++98 | Non-blocking HTTP/1.1 server — multi-client `epoll`/`kqueue`, CGI, static + dynamic routes. |
 | **[miniRT](https://github.com/TheZedzed/miniRT)** | C, MiniLibX | Software ray tracer — spheres, planes, cylinders, Phong shading, multi-threaded rendering. |
 | **[container](https://github.com/TheZedzed/container)** | C++98 | Re-implementation of `libstdc++` containers (`vector`, `map`, `stack`, `set`) with SFINAE and RB-tree internals. |
@@ -47,6 +47,7 @@ More on my [repositories page](https://github.com/TheZedzed?tab=repositories).
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-zeraalex0%40gmail.com-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeraalex0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexandre--zed-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandre-zed)
 [![GitHub](https://img.shields.io/badge/GitHub-TheZedzed-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheZedzed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-thezedzed.github.io-bb9af7?style=for-the-badge&logo=github&logoColor=white)](https://thezedzed.github.io/portfolio)
 
